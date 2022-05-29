@@ -1,0 +1,28 @@
+body {
+    background-image: url(quazeem.img.JPG);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center
+  }
+  h1 {
+    background-color: rgb(171, 171, 205) ;
+  }
+  p {
+    color:black;
+  }
+  h2 {
+    background-color: rgb(254, 255, 92) ;
+  }
+  h3 {
+    background-color: #504B5B ;
+  }
+  h4 {
+    background-color: #3CBCBE ;
+  } 
+  h5 {
+    background-color:hsl(120,100%,50%) ;
+  }
+  h6 {
+    background-color: hsla(120,100%,50%,0.5) ;
+  }
